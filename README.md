@@ -8,7 +8,7 @@
 <p align="left">
 <a href="https://fb.com/tannerdaduck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tannerdaduck" height="30" width="40" /></a>
 <a href="https://instagram.com/tannerdadick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tannerdadick" height="30" width="40" /></a>
-<a href="https://discord.gg/tannerdadick#0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tannerdadick#0001" height="30" width="40" /></a>
+<a href="https://discord.gg/yVpPnGy9Dc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tannerdadick#0001" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
